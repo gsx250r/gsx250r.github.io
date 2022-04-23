@@ -13,9 +13,9 @@ menu:
 # https://github.com/mattboldt/typed.js
 subtitle:
   enable: true # 是否开启动效
-  text: 面朝大海，春暖花开 # 显示的文字
-  text2: 愿你一生努力，一生被爱 # 滚动播放，如果不需要可以留空
-  text3: 想要的都拥有，得不到的都释怀 # 最多支持三段文字
+  text: 世界这么大 # 显示的文字
+  text2: 而我真正想落脚的地方 # 滚动播放，如果不需要可以留空
+  text3: 是你的身旁 # 最多支持三段文字
   startDelay: 0 # 延迟时间
   typeSpeed: 200 # 打字速度
   loop: true # 是否循环
@@ -23,8 +23,8 @@ subtitle:
   showCursor: true # 是否显示光标
 
 # 网站图标和侧边栏logo
-favicon: https://cdn.jsdelivr.net/gh/gsx250r/image/玫瑰.ico
-logo: https://cdn.jsdelivr.net/gh/gsx250r/image/玫瑰.svg
+favicon: https://cdn.jsdelivr.net/gh/gsx250r/image/爱情鸟.png
+logo: https://cdn.jsdelivr.net/gh/gsx250r/image/爱情鸟.svg
 
 # 封面配置
 # enable-是否启用封面；path-封面背景图；logo-封面logo
@@ -38,7 +38,7 @@ progressBar: true
 
 # 告示板模块
 broadcast:
-  enable: true # true开启，false关闭
+  enable: false # true开启，false关闭
   type: 2 # 1：自定义输入，2：一言api(https://hitokoto.cn/)
   text: 一个安静优雅的hexo主题，快速且响应式。 # type为1时有效
 
@@ -101,18 +101,18 @@ search: true
 rss:
 
 # 是否启用黑夜模式开关
-darkmode: true
+darkmode: false
 
 # 动态背景效果: 0-关闭，1-动态线条(跟随鼠标)
-canvas_bg: 1
+canvas_bg: 0
 
 # 自定义鼠标样式，直接替换/images/mouse.cur文件
 mouse:
-  enable: true
+  enable: false
   path: https://cdn.jsdelivr.net/gh/gsx250r/image/mouse.cur
 
 # 鼠标点击效果：0-关闭，1-爱心，2-爆炸烟花，3-粒子烟花
-click_effect: 1
+click_effect: 0
 
 # 页面宽度自定义（不建议修改，可能造成布局混乱），article_width文章宽度，sidebar_width侧边栏宽度
 layout:
