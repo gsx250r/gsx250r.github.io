@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 瓒❤冰
-subtitle:
-description:
-keywords:
-author: John Doe
+title: 瓒瓒❤冰冰
+subtitle: 我要我们在一起
+description: 沈瓒和韩若冰的网站
+keywords: 沈瓒,韩若冰
+author: Shen Zan
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
