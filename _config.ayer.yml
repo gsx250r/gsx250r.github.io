@@ -5,7 +5,7 @@ menu:
   分类: /categories
   标签: /tags
   旅行: /tags/旅行/
-  摄影: http://shenyu-vip.lofter.com
+  摄影: /photos
   友链: /friends
   关于我: /2019/about
 
@@ -30,7 +30,7 @@ logo: /images/ayer-side.svg
 # enable-是否启用封面；path-封面背景图；logo-封面logo
 cover:
   enable: true
-  path: https://pic.imgdb.cn/item/6263d5fa239250f7c5c87bd1.jpg # /source/images目录下附送多张美图，可更换
+  path: https://pic.imgdb.cn/item/6263d533239250f7c5c68b05.jpg # /source/images目录下附送多张美图，可更换
   logo: false #/images/ayer.svg，如果不要直接设置成false
 
 # 页面顶部进度条
