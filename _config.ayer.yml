@@ -145,7 +145,7 @@ cnzz:
 # Google Analytics
 google_analytics: ""
 # 百度统计
-baidu_analytics: "https://hm.baidu.com/hm.js?bed6dc0a6e157e524aa4bbeab65b4e85"
+baidu_analytics: "bed6dc0a6e157e524aa4bbeab65b4e85"
 
 # Mathjax数学公式
 mathjax: false
